@@ -22,4 +22,4 @@ I hope you find this useful and it helps you with hackathon's. Thank you!
     1. [Privalege Escalation](./Post%20Exploitation%20and%20Persistance/privilege%20escalation.md)
     1. [Persistance](./Post%20Exploitation%20and%20Persistance/persistance.md)
 1. Reporting and Remediation
-    1. [Reporting and Remediation]
+    1. [Reporting and Remediation](./Reporting%20and%20Remediation/reporting%20and%20remediation.md)
